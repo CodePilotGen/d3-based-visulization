@@ -6,7 +6,7 @@ Dynamic Ranking Visualization
 
 
 <p align="center">
-  <a href="README.md">Chinese</a>
+  <a href="README.md">Russian</a>
 </p>
 
 <p align="center">
